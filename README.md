@@ -1,2 +1,3 @@
 # Baba-demo
-author - vikash kumar
+This is my first git repository
+Author - vikash kumar
